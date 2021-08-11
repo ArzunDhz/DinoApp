@@ -1,5 +1,4 @@
-![](image/dino.png)
-
+![dino](https://user-images.githubusercontent.com/86089364/129062446-3003a0bb-2953-4406-be37-c89752406f78.PNG)
 
 
 
